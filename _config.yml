@@ -1,5 +1,8 @@
 # Basic options
 title: Deepa Rao, PhD
+author:
+  name: Deepa Rao
+  email: drao@mit.edu
 description: Computational Ecologist
 url: "https://deepa-rao.github.io/"
 github_username: deepa-rao
