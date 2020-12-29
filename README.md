@@ -1,4 +1,7 @@
 ## Welcome to my GitHub site
 
-I'm Deepa Rao, a microbial oceanographer.
+I'm Deepa Rao, a computational microbial ecologist, oceanographer, and science communicator. 
 
+My GitHub site is home to examples of my data science analysis from lab experiments, field observations, and models.
+
+Code in Python & R. 
