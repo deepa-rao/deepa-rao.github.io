@@ -6,4 +6,4 @@ My GitHub site is a portfolio of analysis and useful code from lab experiments, 
 
 Code in Python & R. 
 
-[Link to Data Sci](./2020-12-29-data_viz.md).
+[Link to Data Sci](/assets/img/Bokeh/2020-12-29-data_viz.md).
