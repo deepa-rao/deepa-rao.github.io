@@ -15,3 +15,23 @@ theme: jekyll-theme-minimal
 # Supports true (default) or false
 search_enabled: true
 
+# Format of the permalinks
+permalink:             /:year/:month/:day/:title/
+
+# Siderbar order
+defaults:
+  - scope:
+      path: README.md
+    values:
+      menu: true
+      order: 1
+  - scope:
+      path: about.md
+    values:
+      menu: true
+      order: 2
+  - scope:
+      path: data-science.md
+    values:
+      menu: true
+      order: 3
