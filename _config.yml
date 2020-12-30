@@ -10,6 +10,7 @@ github_username: deepa-rao
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
+#remote_theme: owner/name
 
 # Enable or disable the site search
 # Supports true (default) or false
