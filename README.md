@@ -20,8 +20,8 @@ Code in Python & R.
 
 <iframe src="/assets/img/Bokeh/MA_lo_0_10.html"
     sandbox="allow-same-origin allow-scripts"
-    width="10%"
-    height="10%"
+    width="200%"
+    height="200%"
     scrolling="no"
     seamless="seamless"
     allowfullscreen="true"
