@@ -21,7 +21,7 @@ Code in Python & R.
 <iframe src="/assets/img/Bokeh/MA_lo_0_10.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="250"
+    height="500"
     scrolling="no"
     seamless="seamless"
     allowfullscreen="true"
