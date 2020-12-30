@@ -24,6 +24,7 @@ Code in Python & R.
     height="500"
     scrolling="no"
     seamless="seamless"
+    allowfullscreen="true"
     frameborder="0">
 </iframe>
 
