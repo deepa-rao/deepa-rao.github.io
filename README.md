@@ -7,3 +7,12 @@ My GitHub site is a portfolio of analysis and useful code from lab experiments, 
 Code in Python & R. 
 
 [Link to Data Sci](https://github.com/deepa-rao/deepa-rao.github.io/blob/master/assets/img/Bokeh/data_vis.md).
+
+<iframe src="/assets/img/Bokeh/flowers.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
