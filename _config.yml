@@ -11,7 +11,7 @@ github_username: deepa-rao
 markdown: kramdown
 theme: jekyll-theme-minimal
 #remote_theme: owner/name
-3remote_theme: poole/hyde
+#remote_theme: poole/hyde
 
 # Enable or disable the site search
 # Supports true (default) or false
